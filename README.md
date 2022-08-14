@@ -1,16 +1,18 @@
-# dofd_driver_panel
+# Food Delivery App Driver Panel
+<p>This panel is to be used by the drivers of the seller. When a new order arrives, the drivers 
+receive an email to their registered email addresses. Also, they can see the new update from this app 
+too. With this app, they can see the details of the order. Also when they deliver the order, they mark it
+as delivered so no other drivers delivers it again.</p>
 
-Clone of food delivery app.
+<ul>
+    <li>Receive email when new order arrives</li>
+    <li>See old and new orders</li>
+    <li>See the info of order's owner</li>
+    <li>See which of the products does the order include</li>
+    <li>See if the order is already paid or will be paid at door</li>
+    <li>Mark the order as delivered</li>
+</ul>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
