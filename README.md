@@ -23,6 +23,8 @@ as delivered so no other drivers delivers it again.</p>
 
 <img width = "300" src="./assets/image/readme_images/driver_02.png" alt="An image from the app" />
 <p>This screen is an example undelivered order where drivers can see the order info and user info.</p>
+
 ## Getting Started
-coming soon...
+<p>coming soon...</p>
+
 
