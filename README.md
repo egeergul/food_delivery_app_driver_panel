@@ -4,7 +4,7 @@ receive an email to their registered email addresses. Also, they can see the new
 too. With this app, they can see the details of the order. Also when they deliver the order, they mark it
 as delivered so no other drivers delivers it again.</p>
 
-<<<<<<< HEAD
+## Features
 <ul>
     <li>Receive email when new order arrives</li>
     <li>See old and new orders</li>
@@ -14,9 +14,12 @@ as delivered so no other drivers delivers it again.</p>
     <li>Mark the order as delivered</li>
 </ul>
 
+## Images from the app
+<img src="./assets/image/readme_images/driver_01.png" alt="An image from the app" />
+<p>This screen is the main screen of this panel. Here, drivers can see all of the new and old orders</p>
+
+
+<img src="./assets/image/readme_images/driver_02.png" alt="An image from the app" />
+<p>This screen is an example undelivered order where drivers can see the order info and user info.</p>
 ## Getting Started
 
-
-=======
-food delivery driver app
->>>>>>> 7ea9c5f32ce49a7a6580e537a272d84eff29081c
