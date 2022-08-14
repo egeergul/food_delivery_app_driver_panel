@@ -15,11 +15,11 @@ as delivered so no other drivers delivers it again.</p>
 </ul>
 
 ## Images from the app
-<img src="./assets/image/readme_images/driver_01.png" alt="An image from the app" />
+<img width="300" src="./assets/image/readme_images/driver_01.png" alt="An image from the app" />
 <p>This screen is the main screen of this panel. Here, drivers can see all of the new and old orders</p>
 
 
-<img src="./assets/image/readme_images/driver_02.png" alt="An image from the app" />
+<img width = "300" src="./assets/image/readme_images/driver_02.png" alt="An image from the app" />
 <p>This screen is an example undelivered order where drivers can see the order info and user info.</p>
 ## Getting Started
 
