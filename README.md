@@ -4,6 +4,7 @@ receive an email to their registered email addresses. Also, they can see the new
 too. With this app, they can see the details of the order. Also when they deliver the order, they mark it
 as delivered so no other drivers delivers it again.</p>
 
+<<<<<<< HEAD
 <ul>
     <li>Receive email when new order arrives</li>
     <li>See old and new orders</li>
@@ -16,3 +17,6 @@ as delivered so no other drivers delivers it again.</p>
 ## Getting Started
 
 
+=======
+food delivery driver app
+>>>>>>> 7ea9c5f32ce49a7a6580e537a272d84eff29081c
